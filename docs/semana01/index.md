@@ -1,6 +1,6 @@
 # Introdução à Gestão de Projetos
 
-![PMBoK Guide](../img/pmbok-guide.png){width=70%}
+![PMBoK Guide](../img/pmbok-guide.png)
 
 Inicialmente, precisaremos compreender sobre o que é um projeto e seus elementos.
 
@@ -60,7 +60,7 @@ Responsabilidades:
 
 ## Iniciação 
 
-![Iniciação](../img/iniciacao.png){width=70%}
+![Iniciação](../img/iniciacao.png)
 
 A primeira coisa que faremos será recorrer ao **Processo de Iniciação**, para começarmos a dar 'vida' ao projeto, seguindo para o tópico:
 
