@@ -2,7 +2,7 @@ site_name: Projeto Chapa Fria
 
 nav:
   - 'Home': 'index.md'
-  - 'Princípios e prátricas':
+  - 'Princípios e práticas':
     - 'Iniciação': 'semana01/index.md'
   - 'Projeto Chapa Fria':
     - 'Artefatos': 'projeto/index.md'
