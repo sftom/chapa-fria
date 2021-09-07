@@ -4,9 +4,6 @@ nav:
   - 'Home': 'index.md'
   - 'Princípios e prátricas':
     - 'Iniciação': 'semana01/index.md'
-    - 'Planejamento':
-      - 'Escopo': 'semana02/index.md'
-      - 'Partes Interessadas': 'semana03/index.md'
   - 'Projeto Chapa Fria':
     - 'Artefatos': 'projeto/index.md'
     - 'Equipe': 'equipe/index.md'
