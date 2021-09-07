@@ -10,7 +10,7 @@ Nessa seção você encontrará os artefatos produzidos, ao longo do Projeto Cha
 
 #### Introdução
 
-A nossa empresa Friagem foi procurada em 25 Ago. 2021, pela empresa FriCoelho, para realizarmos o levantamento, junto às instalações da empresa, e projetarmos uma Câmara Frigorífica de $3 \times 6 \times 2.75 \text{ m}$, totalizando $49.5\text{ m}^3$. A contratante delimitou que a câmara precisará ficar dentro da temperatura recomendada pelos Órgãos Governamentais e Reguladores, de $-20$ a $0^\circ\text{C}$, para acondicionamento de cárneos (bovina, suína e aves).
+A empresa Friagem foi procurada em 25 Ago. 2021 pela empresa FriCoelho para projetar uma Câmara Frigorífica de $3 \times 6 \times 2.75 \text{ m}$, totalizando $49.5\text{ m}^3$. A contratante determinou que a câmara precisa atender à temperatura recomendada pelos Órgãos Reguladores, especificamente de $-20$ a $0^\circ\text{C}$, para acondicionamento de cárneos (bovina, suína e aves).
 
 #### Gerentes e suas responsabilidades
 
