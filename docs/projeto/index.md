@@ -63,7 +63,7 @@ A nossa empresa Friagem foi procurada em 25 Ago. 2021, pela empresa FriCoelho, p
 
 As informações do Projeto Chapa Fria estarão disponíveis no site:
 
-- [http://sftom.github.io/chapa-fria](http://sftom.github.io/chapa-fria)
+- [https://sftom.github.io/chapa-fria](https://sftom.github.io/chapa-fria)
 
 #### Aprovações com assinatura do executivo responsável pelo documento 
 
