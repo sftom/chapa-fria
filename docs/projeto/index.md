@@ -28,7 +28,7 @@ A empresa Friagem foi procurada em 25 Ago. 2021 pela empresa FriCoelho para proj
 
 #### Necessidades básicas do trabalho a ser realizado
 
-Dados as diretrizes do projeto, faz-se necessário a elaboração de um orçamento detalhado de todos os gastos com materiais, equipamentos, mão de obra extra caso exista a necessidade. Com o escopo e o orçamento definidos é necessário juntamente com nosso cliente definir um prazo para a entrega do projeto. Após a iniciação do projeto deveremos elaborar relatórios diários para o gerente de projetos sobre o andamento do projeto, iremos também fazer reuniões semanais com a toda a equipe para saber do andamento do projeto e na influencia que cada tem sobre o outro. E finalizando com reuniões mensais com o cliente de forma a alinhar o andamento do projeto com as ideias do cliente a fim de entregar o melhor projeto possível.
+Dadas as diretrizes do projeto, faz-se necessário a elaboração de um orçamento detalhado de todos os gastos com materiais, equipamentos, mão de obra extra, caso exista a necessidade. Com o escopo e o orçamento definidos é necessário juntamente com nosso cliente definir um prazo para a entrega do projeto. Após a iniciação do projeto deveremos elaborar relatórios diários para o gerente de projetos sobre o andamento do projeto, iremos também fazer reuniões semanais com a toda a equipe para saber do andamento do projeto e na influencia que cada tem sobre o outro. E finalizando com reuniões mensais com o cliente de forma a alinhar o andamento do projeto com as ideias do cliente a fim de entregar o melhor serviço possível.
 
 #### Descrição do produto/serviço do projeto
 
