@@ -1,10 +1,26 @@
 # Projeto Chapa Fria
 
+
+Contato:
+
+- Sérgio Mendonça (Gerente de Projetos) 
+    - [:fontawesome-brands-twitter:{ .twitter } – Twitter](https://twitter.com/sftom)
+    - [:fontawesome-brands-telegram:{ .telegram } – Telegram](https://t.me/sftom)
+
 Nessa seção você encontrará os artefatos produzidos, ao longo do Projeto Chapa Fria, conforme segue:
+
+## _Status Report_ em _Podcast_
+
+Podcast com a iniciação do projeto Chapa Fria, apresentando os fatores que influenciaram na elaboração do Termo de Abertura do Projeto (TAP) e a Identificação das Partes Interessadas (Stakeholders), Duração: 9min34s.
+
+<iframe src="https://anchor.fm/sftom/embed/episodes/Podcast-com-a-iniciao-do-projeto-Chapa-Fria--apresentando-os-fatores-que-influenciaram-na-elaborao-do-Termo-de-Abertura-do-Projeto-TAP-e-a-Identificao-das-Partes-Interessadas-Stakeholders-e17psd2" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 
 ## Iniciação
 
 ### 4.1 Integração | Termo de Abertura do Projeto
+
+Documento: [Termo de Abertura do Projeto](https://docs.google.com/spreadsheets/d/1nLffYRCOUTJCnMljCrVw1LBPkAHx3XMAMvyz4me5XEk/edit?usp=sharing)
 
 #### Título do Projeto: **Chapa Fria FriCoelho**
 
@@ -67,9 +83,11 @@ As informações do Projeto Chapa Fria estarão disponíveis no site:
 
 #### Aprovações com assinatura do executivo responsável pelo documento 
 
-(em construção)
+Projeto aprovado pelo Sr. Rui Coelho
 
 ### 13.1 Partes Interessadas
+
+Documento: [Partes Interessadas](https://docs.google.com/document/d/1ZebcM4E7fAbD7vccaIjsRewueiHTLLOn/edit?usp=sharing&ouid=109817509525044211191&rtpof=true&sd=true)
 
 - Cliente;
     - Patrocinador(es);

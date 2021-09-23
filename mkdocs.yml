@@ -6,6 +6,7 @@ nav:
     - 'Iniciação': 'semana01/index.md'
   - 'Projeto Chapa Fria':
     - 'Artefatos': 'projeto/index.md'
+    - 'Podcasts': 'podcasts/index.md'
     - 'Equipe': 'equipe/index.md'
 
 theme:

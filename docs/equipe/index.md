@@ -4,9 +4,12 @@ Projeto: Chapa Fria
 
 ## Recursos
 
-### Gestor
+### Gerente de Projetos
 
-- Sérgio Mendonça
+- Sérgio Mendonça (Gerente de Projeto) 
+    - [:fontawesome-brands-twitter:{ .twitter } – Twitter](https://twitter.com/sftom)
+    - [:fontawesome-brands-telegram:{ .telegram } – Telegram](https://t.me/sftom)
+
 
 ### Especialistas
 
